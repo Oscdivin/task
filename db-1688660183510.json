@@ -63,37 +63,6 @@
       "task": "Coding",
       "priority": "Urgent",
       "completed": false
-    },
-    {
-      "id": "89a29e35-89df-4efc-b03b-893091f0a458",
-      "task": "divine",
-      "priority": "header",
-      "completed": false
-    },
-    {
-      "_id": "64a7ba35ed0f4cdc88a5eecb",
-      "priority": "please enter priority",
-      "task": "please enter priority",
-      "createdAt": "2023-07-07T07:09:41.182Z",
-      "updatedAt": "2023-07-07T07:09:41.182Z",
-      "__v": 0,
-      "id": "EyLC7Pf"
-    },
-    {
-      "_id": "64a7b674ed0f4cdc88a5eebb",
-      "task": "bmi",
-      "createdAt": "2023-07-07T06:53:40.966Z",
-      "updatedAt": "2023-07-07T06:53:40.966Z",
-      "__v": 0,
-      "id": "VM2ggqO"
-    },
-    {
-      "_id": "64a7b6bded0f4cdc88a5eebd",
-      "task": "bmi",
-      "createdAt": "2023-07-07T06:54:53.236Z",
-      "updatedAt": "2023-07-07T06:54:53.236Z",
-      "__v": 0,
-      "id": "p0qTbM-"
     }
   ]
 }
